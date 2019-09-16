@@ -1,0 +1,34 @@
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\WFM_Tests.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\WFM_Tests.pdb
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.xml
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.csprojResolveAssemblyReference.cache
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.dll
+C:\Users\M.Thuduwewatte\documents\visual studio 2017\Projects\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.pdb
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\WFM_Tests.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\WFM_Tests.pdb
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Newtonsoft.Json.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\Newtonsoft.Json.xml
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.pdb
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\bin\Debug\nunit.framework.xml
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.csprojResolveAssemblyReference.cache
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.dll
+C:\AutomationPOC\ConsoleApp1\WFM_Tests\obj\Debug\WFM_Tests.pdb

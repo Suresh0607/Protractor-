@@ -1,0 +1,63 @@
+Import all selenium jars into your project so that code compiles
+
+POM>.xml - project dependencies
+
+package.json
+- all the dependencies
+
+npm install
+=========================
+Steps:
+1. Create a folder and open it in VSNode
+2. Run command 'npm init' to create default package.json
+3. Answer all the questions asked on command prompt and the default package.json is created
+4. now download and install all dependencies (go to https://github.com/angular/protractor/tree/5.4.1/exampleTypescript)
+- jasmine
+- protractor
+- typescript
+- @types/jasmine (jasmine cant understand typescript and same with node, this is why we need this dependency. Intruducing typescript flavor in JS Jsmine)
+- @types/jasminewd2
+- ts-node (why? this is not converted into @types)
+- @types/node
+5) Install protractor using command 'npm install protractor'
+6) For all other dependencies, either run the command for each of them selarately or add them within 'package.json' and then install using 'npm install'
+
+NEXT - working with the project
+================================
+1. You need a spec file with define and it blocks. So create one spec file with .ts extension
+2. Add 'import {browser, element, by} from "protractor" statement at the top to change the JS to TS. It then understands browser, element and by keywords
+3. Then create the configuration.ts file to add the configurations to run the tests (same as JS project)
+4. Change to exports.config to 'export let config: Config=' and again import protractor statement at the top
+5. Now as protractor can not understand typescript, it needs to be compiled back to javascript to run it. So now we need a compiler to do this job. For this we need tsconfig.json file that will make the configurations for the same purpose.
+6. Run command "tsc --init" to create tsconfig.ts file (but make sure typescript is installed globally using "npm install -g typescript")
+7. Then convert all typescript files into JS using command 'tsc' (but make sure you have 'npm install -g typescript' run)
+8. Then run the test using command "protractor filename_configuration" where .js file has to be used. But before running this, make sure you are in that folder where this file is present
+(protractor JSFiles/configuration.js)
+9. The above command may fail with "No specs found" because your specns might be defined in .ts. So change the name of spec from .ts to .Js
+
+==========================
+
+Webdriver might depricate control flow soon so then we would either need to handle the promises on our own for every step. That is very cumbersome.
+OR
+handle it using async/await concept.
+
+1. Every step u write, make sure u put await keyword. Initially it will give error, so that function name is async.
+
+============================
+
+Importance of 'Scripts' in package.json. It allows you to write all things defined and with one command run the test.
+
+"scripts": {
+    "test":"protractor JSFiles/configuration.js",
+    "protractor":"./node_modules/protractor/built/cli.js",
+    "webdriver-update":"./node_modules/.bin/webdriver-manager update",
+    "pretest": "tsc",
+    "testerror": "echo \"Error: no test specified\" && exit 1"
+  },
+
+=================================
+
+
+
+
+
