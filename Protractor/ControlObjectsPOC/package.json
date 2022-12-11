@@ -20,7 +20,7 @@
     "@types/socket.io": "^2.1.2",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jasmine": "^3.4.0",
     "protractor": "^5.4.2",
     "socket.io": "^2.2.0",
